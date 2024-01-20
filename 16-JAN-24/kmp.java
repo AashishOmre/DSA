@@ -5,6 +5,7 @@ public class kmp {
     public static void main(String[] args) {
         while(i++ > 0)
         
+        
          System.out.println("HELLO JAVA "+ i);
     }
 
