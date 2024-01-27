@@ -1,4 +1,4 @@
-public class SearchInSortedLC33 {
+public class SearchInSortedILC33 {
 
     public static void main(String[] args) {
 
